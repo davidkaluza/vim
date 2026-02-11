@@ -2,7 +2,9 @@
 Vim - the ubiquitous text editor
 
 show tabspace
-set list
+
+    set list
 
 include paste 
-set paste
+
+    set paste
